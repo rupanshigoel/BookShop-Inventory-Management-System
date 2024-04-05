@@ -1,0 +1,1 @@
+An inventory system for a bookstore to manage books. The user can add a book via multiple options, store multiple authors for each book, update a book's price or quantity, get information on a specific book, and check the inventory of the entire stock.
